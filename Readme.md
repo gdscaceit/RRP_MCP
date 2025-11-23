@@ -1,4 +1,3 @@
-Here is the **full README.md file in pure Markdown format**, exactly as you can paste into your `README.md` file — *no extra text, no explanation*.
 
 ---
 
